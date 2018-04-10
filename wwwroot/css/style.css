@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica;
+}
+
+#pagewrap {
+    max-width: 75rem;
+    display: table;
+    margin: 0 auto;
+    padding-top: 2rem;
+}
+
+.col-1-2 {
+    display: table-cell;
+    width: 50%;
+}
+
+form {
+    width: 300px;
+    margin-left: 1rem;
+}
+
+form label {
+    display: inline-block;
+    width: 150px;
+    margin: 0.5rem 0;
+}
+
+.button {
+    background-color: #555;
+    color: #fff;
+    border: 2px solid #555;
+    font-size: 1rem;
+    padding: 6px 18px;
+    margin-top: 0.5rem;
+}

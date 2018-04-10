@@ -1,0 +1,10 @@
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Login and Registration/bin/Debug/netcoreapp2.0/Login and Registration.deps.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Login and Registration/bin/Debug/netcoreapp2.0/Login and Registration.runtimeconfig.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Login and Registration/bin/Debug/netcoreapp2.0/Login and Registration.runtimeconfig.dev.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Login and Registration/bin/Debug/netcoreapp2.0/Login and Registration.dll
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Login and Registration/bin/Debug/netcoreapp2.0/Login and Registration.pdb
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Login and Registration/obj/Debug/netcoreapp2.0/Login and Registration.csproj.CoreCompileInputs.cache
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Login and Registration/obj/Debug/netcoreapp2.0/Login and Registration.AssemblyInfoInputs.cache
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Login and Registration/obj/Debug/netcoreapp2.0/Login and Registration.AssemblyInfo.cs
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Login and Registration/obj/Debug/netcoreapp2.0/Login and Registration.dll
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core Intermediate/Login and Registration/obj/Debug/netcoreapp2.0/Login and Registration.pdb
